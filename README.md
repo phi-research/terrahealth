@@ -26,7 +26,7 @@ Together these pillars frame how the platform connects individual patient outcom
 
 ## 🛠️ Operational Tools
 
-TerraHealth ships a suite of tools that turn raw Earth-observation and health data into actionable products. Code for each tool — where open-sourced — lives in our [dashboards](https://github.com/phi-research/dashboards) and [papers](https://github.com/phi-research/papers) repositories.
+TerraHealth ships a suite of tools that turn raw Earth-observation and health data into actionable products. Code for each tool — where open-sourced — lives in our [dashboards](https://github.com/phi-research/dashboards) and [models](https://github.com/phi-research/models) repositories.
 
 | Tool | Purpose | Status | Repo link |
 |------|---------|--------|-----------|
@@ -66,7 +66,7 @@ TerraHealth curates and releases open datasets that pair environmental exposures
 - Malaria outbreak prediction
 - West Africa climate-and-health initiatives
 
-Code accompanying each peer-reviewed output is released in [`phi-research/papers`](https://github.com/phi-research/papers) — see the index there for the latest list.
+Code accompanying each peer-reviewed output is released in [`phi-research/models`](https://github.com/phi-research/models) — see the index there for the latest list.
 
 ---
 
@@ -103,14 +103,14 @@ This repository will track TerraHealth-specific platform code, integration glue,
 |------|---------|
 | [`terrahealth`](https://github.com/phi-research/terrahealth) | **You are here** — flagship platform docs, integration code |
 | [`dashboards`](https://github.com/phi-research/dashboards) | Interactive dashboards (Cyclone, future Flood Analyzer, etc.) |
-| [`papers`](https://github.com/phi-research/papers) | Code accompanying publications (M-LSTM, kiln detection, …) |
+| [`models`](https://github.com/phi-research/models) | Code accompanying publications (M-LSTM, kiln detection, …) |
 | [`shared`](https://github.com/phi-research/shared) | Reusable utilities, data loaders, geospatial helpers |
 
 ---
 
 ## 🚀 Getting Involved
 
-- **Researchers:** explore the [open datasets](https://www.terrahealth.net/) and [publications](https://github.com/phi-research/papers)
+- **Researchers:** explore the [open datasets](https://www.terrahealth.net/) and [publications](https://github.com/phi-research/models)
 - **Developers:** browse the [dashboards repo](https://github.com/phi-research/dashboards) and open issues / PRs
 - **Partners & Collaborators:** contact the lab to discuss data sharing, federated deployments, or joint projects
 
