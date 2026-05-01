@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+env/
+venv/
+ENV/
+.env
+.venv
+*.egg-info/
+.ipynb_checkpoints/
+
+# Node / web
+node_modules/
+dist/
+build/
+.next/
+.cache/
+*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets
+.env.local
+.env.production
+*.pem
+*.key
+credentials.json
+secrets.yml
